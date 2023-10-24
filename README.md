@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simalagrahari223
+- 👋 Hi, I’m Simal Agrahari
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
